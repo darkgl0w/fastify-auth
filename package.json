@@ -34,7 +34,7 @@
     "fastify-jwt": "^3.0.0",
     "fastify-leveldb": "^3.0.0",
     "pre-commit": "^1.2.2",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.7",
     "standard": "^16.0.1",
     "tap": "^15.0.2",
     "tsd": "^0.17.0",
